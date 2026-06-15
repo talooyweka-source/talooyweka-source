@@ -16,13 +16,20 @@ Beyond my coursework, I am an active Open Source Contributor with **Btrust Build
 
 ---
 
-### 🚀 Featured Projects
-*Here are a few things I've built and documented recently:*
+### 🎓 Zone01 Kisumu Curriculum Projects
+*These projects were built under the strict peer-review and auditing standards of the Zone01 (42 Network) curriculum. They emphasize algorithmic efficiency, clean code, and production-ready practices.*
 
 - 🐳 **[ASCII Art Web Dockerize](https://github.com/talooyweka-source/ascii-art-web-dockerize):** A containerized Go web application featuring a RESTful API, multi-stage Docker builds for minimal image size, embedded assets, and comprehensive unit testing. *(Go, Docker, REST API, Unit Testing)*
-- 🔀 **[Git Mastery](https://github.com/talooyweka-source/git):** A dedicated repository documenting my journey mastering version control, complex branching strategies, merge conflict resolution, and collaborative workflows. *(Git, Shell)*
-- 🔄 **[Go Reloaded](https://github.com/talooyweka-source/go-reloaded):** Advanced text manipulation and processing engine built from scratch, focusing on core Go concepts and algorithmic efficiency. *(Go)*
-- 🌍 **[Btrust Open Source Contributions](https://github.com/btrust-builders/first-open-source-contributions):** Collaborative open-source project focusing on building tools for the Bitcoin and Nostr ecosystems. *(Open Source, Collaboration)*
+- 🔄 **[Go Reloaded](https://github.com/talooyweka-source/go-reloaded):** Advanced text manipulation and processing engine built from scratch, focusing on core Go concepts, pointers, and algorithmic efficiency. *(Go)*
+- 🔀 **[Git Mastery](https://github.com/talooyweka-source/git):** A dedicated repository documenting my journey mastering advanced version control, complex branching strategies, merge conflict resolution, and collaborative workflows. *(Git, Shell)*
+
+---
+
+### 🚀 Open Source & Personal Initiatives
+*Projects driven by my personal interests in open-source, decentralized tech, and web development.*
+
+- 🌍 **[Btrust Open Source Contributions](https://github.com/btrust-builders/first-open-source-contributions):** Collaborative open-source project focusing on building tools and infrastructure for the Bitcoin and Nostr ecosystems. *(Open Source, Collaboration)*
+- 💡 **[Personal Web & Data Projects]**: *(Coming Soon!)* Currently designing personal web applications and data analysis tools to solve everyday problems. *(React, Node.js, Python)*
 
 ---
 
@@ -62,7 +69,6 @@ I am a firm believer in continuous growth. Right now, I am expanding my expertis
 </p>
 
 <p align="center">
-  <!-- UPDATED: Using a highly reliable server for the streak stats -->
   <img src="https://streak-stats.demolab.com/?user=talooyweka-source&theme=radical&hide_border=true" alt="talooyweka-source" />
 </p>
 
@@ -75,7 +81,6 @@ I'm always open to collaborating on open-source projects, discussing backend arc
   <a href="mailto:talooyweka@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- FIXED: Correct LinkedIn URL format -->
   <a href="https://www.linkedin.com/in/iantalo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
