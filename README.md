@@ -62,7 +62,8 @@ I am a firm believer in continuous growth. Right now, I am expanding my expertis
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talooyweka-source&theme=radical&hide_border=true" alt="talooyweka-source" />
+  <!-- UPDATED: Using a highly reliable server for the streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=talooyweka-source&theme=radical&hide_border=true" alt="talooyweka-source" />
 </p>
 
 ---
@@ -74,7 +75,8 @@ I'm always open to collaborating on open-source projects, discussing backend arc
   <a href="mailto:talooyweka@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://LinkedIn.com/IanTalo" target="_blank">
+  <!-- FIXED: Correct LinkedIn URL format -->
+  <a href="https://www.linkedin.com/in/iantalo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/ian_tallo" target="_blank">
